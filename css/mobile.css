@@ -58,4 +58,8 @@
     .choose-content p {
         font-size: 14px;
     }
+
+    .hero {
+        background-attachment: fixed;
+    }
 }
